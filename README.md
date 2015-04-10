@@ -1,4 +1,4 @@
-Conceptual Design Report volumes for the next long-baseline experiment at Fermilab.
+This repository is for archival purposes only.  If you are looking for the real CDR: https://github.com/DUNE/cdr
 ====
 
 Guidance
